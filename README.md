@@ -1,2 +1,2 @@
-# resources
-CoinFabrik Resources
+# CoinFabrik Resources
+
